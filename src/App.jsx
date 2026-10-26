@@ -199,7 +199,7 @@ function App() {
                 
                 <div className="project-image">
                   <img
-                    src="/images/compra360-dashboard.png"
+                    src="/images/compra360-dashboard.webp"
                     alt="Dashboard do Compra360 com indicadores,
                     gráficos e alertas de gestão de compras"
                     loading="lazy"
@@ -233,7 +233,7 @@ function App() {
                 <div className="project-image app-preview">
                   <div className="phone-frame">
                     <img
-                      src="/images/validade-na-mao.jpeg"
+                      src="/images/validade-na-mao.webp"
                       alt="Tela principal do aplicativo Validade na Mão"
                       loading="lazy"
                     />
@@ -264,7 +264,7 @@ function App() {
               <article className="project-card">
                 <div className="project-image desktop-preview">
                   <img
-                    src="/images/comparador-csv.png"
+                    src="/images/comparador-csv.webp"
                     alt="Tela do sistema Comparador de CSV com filtros, tabela comparativa e opções de exportação"
                     loading="lazy"
                   />
